@@ -1,6 +1,7 @@
 <?php 
 //Problem 1
 //Problem 2 of git hub
+//next problem
 $array1 = [1,  3, 6, 2, 4];
 $size = sizeof($array1);
 $array2 = [2,0,4, 1, 2];
